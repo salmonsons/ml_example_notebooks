@@ -18,3 +18,7 @@ There are five classification notebooks, each predicting a type of wine. They us
 - Decision Trees & Random Forests
 - Naive Bayes
 - Neural Networks 
+
+### Author
+
+This repo was originally written and published by Stacey Ronaghan to accompany the Medium article "Machine Learning: Trying to predict a numberical value". URL: https://medium.com/@srnghn/machine-learning-trying-to-predict-a-numerical-value-8aafb9ad4d36
